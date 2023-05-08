@@ -1,0 +1,6 @@
+# Specific file ignores.
+._*
+.DS_Store
+secrets.yaml
+partitions.csv
+__pycache__

@@ -1,0 +1,3 @@
+[submodule "EmonLibCM"]
+	path = EmonLibCM
+	url = https://github.com/openenergymonitor/EmonLibCM.git
